@@ -45,3 +45,12 @@ It incorporates the **Formally‑Dialectical Logic (FDL)** architecture by NGOI 
 
 See `LICENSE` and `NOTICE.md` for full terms.
 
+
+## License & Ethics
+
+This project follows NOVEYA’s unified licensing model:
+
+- All source code is licensed under the **GNU AGPL‑3.0**. See the [LICENSE](LICENSE) file for details.
+- All non‑code assets, including documentation and symbols, are licensed under **CC‑BY‑NC‑SA 4.0**. See [LICENSE‑ETHICS.md](LICENSE-ETHICS.md) for the full dual‑license model and the Formal Dialectical Logic (FDL) ethical manifesto.
+
+By contributing to or using this project, you agree to respect these licenses and ethical guidelines.
